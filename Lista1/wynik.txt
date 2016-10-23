@@ -1,0 +1,4 @@
+Wynik dzialania: 21-10-2016 20:50:55 Klucz: de30955b59c32a8551079ba1f2b8ae64b043969817a04805514b46fc33e89e03 wiadomosc: Raper od razu us³ysza³ zarzuty. A te s¹ bardzo powa¿ne.
+String sufikskey="59c32a8551079ba1f2b8ae64b043969817a04805514b46fc33e89e03";
+String initVector = "8aaedd5ea73bba58427ae1f4b321ba38";
+String message= "9eZ2tqPdKAzx46JcOQp+Hrc7rL3tIb5bx3/bERqYuHF9zh6AI/6SqyNWmdm+lgZNJUX3REcghwqh8OkV+Q6iJg==";
