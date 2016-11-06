@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1478471616 source:c:\users\krucz_000\desktop\jar\zadanie2\odtwarzacz\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	"C:\bass\c\bass.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+
+1457441232 c:\bass\c\bass.h
+	<wtypes.h>
+	<stdint.h>
+

@@ -1,0 +1,3 @@
+To jest plik, który ma zostac zaszyfrowany.
+Jeœli sie zaszyfruje, bêdzie okej...
+A jeœli siê jeszcze dodatkowo odszyfruje, to bajlando ;)
